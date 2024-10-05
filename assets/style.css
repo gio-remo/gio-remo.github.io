@@ -1,0 +1,31 @@
+a.nav-link.active {
+    color: #257bc0 !important;
+}
+
+svg:hover path {
+    fill: #257bc0 !important;
+    fill-opacity: .7!important
+}
+
+img {
+    pointer-events: none;
+}
+
+p a {
+    text-decoration: none;
+    color: #257bc0 !important;
+}
+
+.blog-item a {
+    color: black !important;
+}
+
+.blog-item a:hover {
+    color: #257bc0 !important;
+    text-decoration:underline dotted;
+}
+
+.blog-item .date {
+    font-family: 'Courier New', monospace;
+    color: #7e7e7e !important;
+}
