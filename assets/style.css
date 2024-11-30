@@ -2,9 +2,13 @@ a.nav-link.active {
     color: #257bc0 !important;
 }
 
-svg:hover path {
-    fill: #257bc0 !important;
-    fill-opacity: .7!important
+a.social-link {
+    color:#C5C5C5;
+    font-size:1.2em;
+}
+
+a.social-link:hover {
+    color: #257bc0 !important;
 }
 
 img {
