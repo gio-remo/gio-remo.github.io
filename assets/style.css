@@ -33,3 +33,7 @@ p a {
     font-family: 'Courier New', monospace;
     color: #7e7e7e !important;
 }
+
+.card a {
+    color: #257bc0 !important;
+}
