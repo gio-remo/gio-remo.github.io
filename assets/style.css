@@ -29,7 +29,7 @@ p a {
     text-decoration:underline dotted;
 }
 
-.blog-item .date {
+span.date {
     font-family: 'Courier New', monospace;
     color: #7e7e7e !important;
 }
